@@ -1,0 +1,10 @@
+# Compiled C++ programs
+fork_demo
+fork_exec
+hello
+process
+wait
+write
+
+# VS Code
+.vscode/
