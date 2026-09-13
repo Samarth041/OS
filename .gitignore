@@ -5,6 +5,7 @@ hello
 process
 wait
 write
+wait_demo
 
 # VS Code
 .vscode/
