@@ -6,6 +6,8 @@ process
 wait
 write
 wait_demo
+waitpid_demo
+zombie
 
 # VS Code
 .vscode/
